@@ -1,6 +1,6 @@
 print("Welcome To 🍕Pizza Deliveries! ")
 size=input("What size Pizza 🍪🍕 do you want? S, M, L -> ")
-add_pepperoni =input("Do yout want pepperoni? Y or N -> ")
+add_pepperoni =input("Do you want pepperoni? Y or N -> ")
 
 
 bill=0
