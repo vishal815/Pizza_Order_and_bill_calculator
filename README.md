@@ -5,13 +5,13 @@
 
 ## Overview
 
-Welcome to the Pizza Order and Bill Calculator! This project is designed to streamline the process of ordering pizzas and calculating the total bill. It's a simple and efficient tool developed in Python to handle pizza orders, manage different sizes and toppings, and provide a detailed bill breakdown.
+Welcome to the Pizza Order and Bill Calculator! This project is designed to order pizzas and calculate the total bill. It's a simple and efficient tool developed in Python to handle pizza orders, manage different sizes and toppings, and provide a detailed bill breakdown.
 
 ## Features
 
-- **Pizza Ordering System**: Choose from a variety of pizza sizes and toppings.
+- **Pizza Ordering System**: Choose from various pizza sizes and toppings.
 - **Bill Calculation**: Automatically calculate the total cost based on selected options.
-- **User-Friendly Interface**: Easy-to-use interface for a seamless ordering experience.
+- **User-Friendly Interface**: Easy-to-use ordering experience.
 - **Customizable**: Easily add or modify pizza sizes and toppings.
 
 ## Script Details
@@ -24,7 +24,7 @@ The main script allows users to order a pizza by choosing the size, adding peppe
 
 2. **Pizza Size Selection**:
     - Prompts the user to choose a pizza size (S, M, L).
-    - Validates the input to ensure it's one of the accepted values.
+    - Validate the input to ensure it's one of the accepted values.
 
 3. **Pepperoni Addition**:
     - Asks if the user wants to add pepperoni (Y, N).
@@ -50,7 +50,7 @@ The main script allows users to order a pizza by choosing the size, adding peppe
     ```bash
     python main.py
     ```
-2. Follow the prompts to place your pizza order.
+2. Follow the steps to place your pizza order.
 3. The total bill will be calculated and displayed at the end.
 
 ## Happy Learnig 😃
